@@ -1,0 +1,16 @@
+Added Component: Designator=MCU?(DIP40)
+Added Pin To Net: NetName=BT1 Pin=MCU?-1
+Added Pin To Net: NetName=BT2 Pin=MCU?-2
+Added Pin To Net: NetName=BT3 Pin=MCU?-3
+Added Pin To Net: NetName=BT4 Pin=MCU?-5
+Added Pin To Net: NetName=BUZZER Pin=MCU?-5
+Added Pin To Net: NetName=GND Pin=MCU?-19
+Added Pin To Net: NetName=VCC Pin=MCU?-20
+Added Pin To Net: NetName=LCD_CS Pin=MCU?-27
+Added Pin To Net: NetName=LCD_SDA Pin=MCU?-28
+Added Pin To Net: NetName=LCD_RS Pin=MCU?-29
+Added Pin To Net: NetName=LCD_SCK Pin=MCU?-30
+Added Pin To Net: NetName=LCD_RST Pin=MCU?-31
+Added Pin To Net: NetName=X Pin=MCU?-33
+Added Pin To Net: NetName=Y Pin=MCU?-34
+Added Member To Class: ClassName=Sheet1 Member=Component MCU? STM32F411

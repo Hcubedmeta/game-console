@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=BT4 Pin=MCU1-4
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-1
+Removed Pin From Net: NetName=NetDDL1_2 Pin=U1-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Member From Class: ClassName=Sheet1 Member=U1
+Added Component: Designator=IC?(QTO-220-5)
+Added Pin To Net: NetName=NetC1_1 Pin=IC?-1
+Added Pin To Net: NetName=NetDDL1_2 Pin=IC?-2
+Added Pin To Net: NetName=GND Pin=IC?-3
+Added Pin To Net: NetName=GND Pin=IC?-5
+Added Pin To Net: NetName=BT4 Pin=MCU1-5
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=VR1-1
+Added Net: Name=NetIC?_4
+Added Member To Class: ClassName=Sheet1 Member=Component IC? LM2576
+Added Room: Name=Sheet1

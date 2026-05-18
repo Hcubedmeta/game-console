@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=BT4 Pin=MCU1-4
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=VR1-2
+Added Pin To Net: NetName=BT4 Pin=MCU1-5
+Added Pin To Net: NetName=NetIC?_4 Pin=R2-2
+Added Pin To Net: NetName=NetIC?_4 Pin=VR1-2
+Added Room: Name=Sheet1

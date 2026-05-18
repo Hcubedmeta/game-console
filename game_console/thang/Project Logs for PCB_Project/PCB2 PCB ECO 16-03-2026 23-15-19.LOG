@@ -1,0 +1,4 @@
+Added Component: Designator=MCU?(DIP40)
+Added Component: Designator=Servo*(PCBComponent_1)
+Added Member To Class: ClassName=Sheet1 Member=Component MCU? STM32F411
+Added Member To Class: ClassName=Sheet1 Member=Component Servo* servo

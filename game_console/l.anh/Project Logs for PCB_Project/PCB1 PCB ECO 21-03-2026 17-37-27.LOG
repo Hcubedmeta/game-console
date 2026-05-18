@@ -1,0 +1,9 @@
+Added Component: Designator=J1(JOYSTOCK_IN_HOLE)
+Add component (AddParameter): Name = "PartNumber"; Value = "Arduino PS2 joystick Module"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=X Pin=J1-3
+Added Pin To Net: NetName=Y Pin=J1-4
+Added Pin To Net: NetName=BT4 Pin=MCU1-5
+Added Member To Class: ClassName=Sheet1 Member=Component J1 Joystick Module in Hole
+Added Room: Name=Sheet1

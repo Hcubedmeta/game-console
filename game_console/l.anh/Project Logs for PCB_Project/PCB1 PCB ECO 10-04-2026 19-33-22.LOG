@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=BT1 Pin=MCU1-1
+Removed Pin From Net: NetName=BT2 Pin=MCU1-2
+Removed Pin From Net: NetName=BT3 Pin=MCU1-3
+Removed Pin From Net: NetName=BT4 Pin=MCU1-5
+Removed Pin From Net: NetName=GND Pin=MCU1-19
+Removed Pin From Net: NetName=VCC Pin=MCU1-20
+Removed Pin From Net: NetName=LCD_CS Pin=MCU1-27
+Removed Pin From Net: NetName=LCD_SDA Pin=MCU1-28
+Removed Pin From Net: NetName=LCD_RS Pin=MCU1-29
+Removed Pin From Net: NetName=LCD_SCK Pin=MCU1-30
+Removed Pin From Net: NetName=LCD_RST Pin=MCU1-31
+Removed Pin From Net: NetName=X Pin=MCU1-33
+Removed Pin From Net: NetName=Y Pin=MCU1-34
+Removed Member From Class: ClassName=Sheet1 Member=MCU1

@@ -1,0 +1,74 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.29.0.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: d fsd, sf, LIC=47GU5-GY9AG-01NP1-CUVKY-M63JJ-9ZQ61
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.29.0.0
+Toolchain Path:  C:\Keil_v5\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.29.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      STLink\ST-LINKIII-KEIL_SWO.dll V3.0.7.0
+Dialog DLL:      TCM.DLL V1.36.5.0
+ 
+<h2>Project:</h2>
+C:\Users\Hoang\Documents\embedded code\code stm32\STM32F4\game_console\code\game_console\MDK-ARM\game_console.uvprojx
+Project File Date:  11/06/2025
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'C:\Keil_v5\ARM\ARMCC\Bin'
+Build target 'game_console'
+compiling Image.c...
+..\..\..\..\..\..\Image.c(33): warning:  #177-D: variable "image_data_Image"  was declared but never referenced
+  static const uint32_t image_data_Image[19360] = {
+..\..\..\..\..\..\Image.c(476): warning:  #177-D: variable "image_data_Image1"  was declared but never referenced
+  static const uint32_t image_data_Image1[19360] = {
+..\..\..\..\..\..\Image.c(919): warning:  #177-D: variable "image_data_Image3"  was declared but never referenced
+  static const uint32_t image_data_Image3[19360] = {
+..\..\..\..\..\..\Image.c: 3 warnings, 0 errors
+compiling main.c...
+../Core/Src/main.c(307): warning:  #68-D: integer conversion resulted in a change of sign
+      fill_rectangle(X_GAME_OVER - 10, Y_GAME_OVER - 10, X_GAME_OVER + 100, Y_GAME_OVER + 60, COLOR_WHITE);
+../Core/Src/main.c(359): warning:  #177-D: variable "timer_clk"  was declared but never referenced
+      uint32_t timer_clk = 100000000; // TIM1 ch?y ? 100 MHz
+../Core/Src/main.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=16028 RO-data=234460 RW-data=1392 ZI-data=4472  
+FromELF: creating hex file...
+"game_console\game_console.axf" - 0 Error(s), 5 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: ARM
+                http://www.keil.com/pack/ARM.CMSIS.5.8.0.pack
+                ARM.CMSIS.5.8.0
+                CMSIS (Common Microcontroller Software Interface Standard)
+   * Component: CORE Version: 5.5.0
+
+Package Vendor: Keil
+                https://www.keil.com/pack/Keil.STM32F4xx_DFP.2.17.1.pack
+                Keil.STM32F4xx_DFP.2.17.1
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_game_console
+  C:\Users\Hoang\AppData\Local\Arm\Packs\ARM\CMSIS\5.8.0\CMSIS\Core\Include
+  C:\Users\Hoang\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.17.1\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+
+<h2>Collection of Component Files used:</h2>
+
+   * Component: ARM::CMSIS:CORE:5.5.0
+      Include file:  CMSIS\Core\Include\tz_context.h
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>

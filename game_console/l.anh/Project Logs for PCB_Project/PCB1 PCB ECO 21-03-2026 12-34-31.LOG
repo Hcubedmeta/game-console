@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=BT1 Pin=MCU1-1
+Removed Pin From Net: NetName=BT2 Pin=MCU1-2
+Removed Pin From Net: NetName=BT3 Pin=MCU1-3
+Removed Pin From Net: NetName=BT4 Pin=MCU1-4
+Added Pin To Net: NetName=BT4 Pin=MCU1-1
+Added Pin To Net: NetName=BT3 Pin=MCU1-2
+Added Pin To Net: NetName=BT2 Pin=MCU1-3
+Added Pin To Net: NetName=BT1 Pin=MCU1-5
+Change Net Name : Old Net Name=BT1 New Net Name=BT4
+Change Net Name : Old Net Name=BT2 New Net Name=BT3
+Change Net Name : Old Net Name=BT3 New Net Name=BT2
+Change Net Name : Old Net Name=BT4 New Net Name=BT1

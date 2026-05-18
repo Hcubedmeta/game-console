@@ -1,0 +1,154 @@
+Removed Pin From Net: NetName=VCC Pin=C4-2
+Removed Pin From Net: NetName=VCC Pin=C5-2
+Removed Pin From Net: NetName=VCC Pin=C6-2
+Removed Pin From Net: NetName=VCC Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=IC1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=IC1-3
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=VCC Pin=JP2-1
+Removed Pin From Net: NetName=GND Pin=JP2-2
+Removed Pin From Net: NetName=LCD_SCK Pin=JP2-7
+Removed Pin From Net: NetName=LCD_SDA Pin=JP2-8
+Removed Pin From Net: NetName=LCD_RS Pin=JP2-9
+Removed Pin From Net: NetName=LCD_RST Pin=JP2-10
+Removed Pin From Net: NetName=LCD_CS Pin=JP2-11
+Removed Pin From Net: NetName=NetLED1_1 Pin=R1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-1
+Removed Pin From Net: NetName=VCC Pin=R3-1
+Removed Pin From Net: NetName=VCC Pin=R4-1
+Removed Pin From Net: NetName=VCC Pin=R5-1
+Removed Pin From Net: NetName=NetQ1_3 Pin=R6-1
+Removed Pin From Net: NetName=LCD_RST Pin=U1-10
+Removed Pin From Net: NetName=LCD_SCK Pin=U1-11
+Removed Pin From Net: NetName=LCD_RS Pin=U1-12
+Removed Pin From Net: NetName=LCD_SDA Pin=U1-13
+Removed Pin From Net: NetName=LCD_CS Pin=U1-14
+Removed Pin From Net: NetName=GND Pin=U1-39
+Removed Pin From Net: NetName=VCC Pin=U1-40
+Removed Member From Class: ClassName=schematic Member=IC1
+Removed Member From Class: ClassName=schematic Member=JP2
+Change Component Footprint: Designator=U1 Old Footprint=ARDUINO_STM32F103C8T6 New Footprint=TO-220
+Change Component Footprint: Designator=C3 Old Footprint=CN1 New Footprint=CN2
+Change Component Footprint: Designator=C4 Old Footprint=CN1 New Footprint=CN2
+Change Component Footprint: Designator=C5 Old Footprint=CN1 New Footprint=CN2
+Change Component Footprint: Designator=C6 Old Footprint=CN1 New Footprint=CN2
+Change Component Footprint: Designator=C7 Old Footprint=CN1 New Footprint=CN2
+Change Component Footprint: Designator=C1 Old Footprint=CP2/5 New Footprint=CP1.5/3.4
+Change Component Footprint: Designator=C2 Old Footprint=CP2/5 New Footprint=CP1.5/3.4
+Change Component Footprint: Designator=JP1 Old Footprint=HED2 New Footprint=CON11
+Change Component Footprint: Designator=LED1 Old Footprint=LED-3 New Footprint=LED-5
+Change Component Comment : Designator=R1 Old Comment=1k New Comment=220
+Change Component Comment : Designator=C3 Old Comment=100pF New Comment=104
+Change Component Comment : Designator=C4 Old Comment=100pF New Comment=104
+Change Component Comment : Designator=C5 Old Comment=100pF New Comment=104
+Change Component Comment : Designator=C6 Old Comment=100pF New Comment=104
+Change Component Comment : Designator=C7 Old Comment=100pF New Comment=104
+Change Component Comment : Designator=R6 Old Comment=220 New Comment=1k
+Change Component Comment : Designator=R2 Old Comment=220 New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=220 New Comment=10K
+Change Component Comment : Designator=R4 Old Comment=220 New Comment=10K
+Change Component Comment : Designator=R5 Old Comment=220 New Comment=10K
+Change Component Comment : Designator=U1 Old Comment=Arduino STM32F103C8T6 New Comment=LM7805CT
+Change Component Comment : Designator=C1 Old Comment=Cap Pol3 New Comment=1000uF/16V
+Change Component Comment : Designator=C2 Old Comment=Cap Pol3 New Comment=1000uF/16V
+Change Component Comment : Designator=JP1 Old Comment=Header 2_1 New Comment=JP11
+Change component parameters: Designator = "C3" ("C3"); Footprint = "CN1"; UniqueID = "\LOFMEWIO" ("\LOFMEWIO")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C4" ("C4"); Footprint = "CN1"; UniqueID = "\IFLLNLLN" ("\IFLLNLLN")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C5" ("C5"); Footprint = "CN1"; UniqueID = "\QQKWBTDM" ("\QQKWBTDM")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CN1"; UniqueID = "\HIGMLHTB" ("\HIGMLHTB")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CN1"; UniqueID = "\MWNSQDXQ" ("\MWNSQDXQ")
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "JP1" ("JP1"); Footprint = "HED2"; UniqueID = "\DUXZSZNS" ("\DUXZSZNS")
+Change component parameters (AddParameter): Name = "Value"; Value = "Connector 11"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CP2/5"; UniqueID = "\XSFCWWRP" ("\XSFCWWRP")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CP2/5"; UniqueID = "\MSQHIVUH" ("\MSQHIVUH")
+Change component parameters (AddParameter): Name = "Description 1"; Value = "2200uF-3300uF/6,3V - 1000uF-2200uF/10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = "1000uF/16V - 470uF => 1000uF/25V - 100uF/100V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 3"; Value = "330uF>470uF/35V_220uF>470uF/50V_10uF>22uF/250V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 4"; Value = "220uF => 330uF/63V - 10uF =>33uF/160 - 200V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 5"; Value = "4,7uF>10uF/250V_3,3uF>10uF/400V - 2,2uF>4,7uF/450V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1000uF/16V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CN2)
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=HD1(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=MCU?(DIP40)
+Added Component: Designator=U2(ARDUINO_STM32F103C8T6)
+Added Pin To Net: NetName=NetC1_1 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=HD1-1
+Added Pin To Net: NetName=NetC1_1 Pin=HD1-2
+Added Pin To Net: NetName=VCC Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Pin To Net: NetName=LCD_SCK Pin=JP1-7
+Added Pin To Net: NetName=LCD_SDA Pin=JP1-8
+Added Pin To Net: NetName=LCD_RS Pin=JP1-9
+Added Pin To Net: NetName=LCD_RST Pin=JP1-10
+Added Pin To Net: NetName=LCD_CS Pin=JP1-11
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-2
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=LCD_RST Pin=U2-10
+Added Pin To Net: NetName=LCD_SCK Pin=U2-11
+Added Pin To Net: NetName=LCD_RS Pin=U2-12
+Added Pin To Net: NetName=LCD_SDA Pin=U2-13
+Added Pin To Net: NetName=LCD_CS Pin=U2-14
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Pin To Net: NetName=VCC Pin=U2-40
+Added Pin To Net: NetName=+5 Pin=C2-1
+Added Pin To Net: NetName=+5 Pin=C4-2
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=U1-3
+Added Pin To Net: NetName=+5 Pin=U2-38
+Added Net: Name=+5
+Added Pin To Net: NetName=BT1 Pin=C5-2
+Added Pin To Net: NetName=BT1 Pin=R2-1
+Added Pin To Net: NetName=BT1 Pin=SW1-1
+Added Pin To Net: NetName=BT1 Pin=U2-21
+Added Net: Name=BT1
+Added Pin To Net: NetName=BT2 Pin=C6-2
+Added Pin To Net: NetName=BT2 Pin=R3-1
+Added Pin To Net: NetName=BT2 Pin=SW2-1
+Added Pin To Net: NetName=BT2 Pin=U2-22
+Added Net: Name=BT2
+Added Pin To Net: NetName=BT3 Pin=C7-2
+Added Pin To Net: NetName=BT3 Pin=R4-1
+Added Pin To Net: NetName=BT3 Pin=SW3-1
+Added Pin To Net: NetName=BT3 Pin=U2-23
+Added Net: Name=BT3
+Added Pin To Net: NetName=BT4 Pin=C8-2
+Added Pin To Net: NetName=BT4 Pin=R5-1
+Added Pin To Net: NetName=BT4 Pin=SW4-1
+Added Pin To Net: NetName=BT4 Pin=U2-24
+Added Net: Name=BT4
+Added Pin To Net: NetName=BUZZER Pin=R6-1
+Added Pin To Net: NetName=BUZZER Pin=U2-25
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=X Pin=J1-3
+Added Pin To Net: NetName=X Pin=U2-8
+Added Net: Name=X
+Added Pin To Net: NetName=Y Pin=J1-4
+Added Pin To Net: NetName=Y Pin=U2-7
+Added Net: Name=Y
+Change Class Name : Old Net Name=schematic New Net Name=Sheet1
+Added Member To Class: ClassName=Sheet1 Member=Component C8 104
+Added Member To Class: ClassName=Sheet1 Member=Component HD1 Header 2
+Added Member To Class: ClassName=Sheet1 Member=Component MCU? STM32F411
+Added Member To Class: ClassName=Sheet1 Member=Component U2 Arduino STM32F411CEU6
+Added Room: Name=Sheet1

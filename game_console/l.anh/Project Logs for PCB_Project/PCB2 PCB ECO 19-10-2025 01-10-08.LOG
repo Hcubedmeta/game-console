@@ -1,0 +1,144 @@
+Added Component: Designator=B1(Buzzer)
+Added Component: Designator=C1(CP2/5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CP2/5)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "C?"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CN1)
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CN1)
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CN1)
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CN1)
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CN1)
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(QTO-220)
+Add component (AddParameter): Name = "Value"; Value = "LM7805"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JOYSTOCK_IN_HOLE)
+Add component (AddParameter): Name = "PartNumber"; Value = "Arduino PS2 joystick Module"; VariantName = "[No Variations]"
+Added Component: Designator=JP2(CON11)
+Add component (AddParameter): Name = "Value"; Value = "Connector 11"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED-3)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 ly Single Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(QTO-92)
+Add component (AddParameter): Name = "Value"; Value = "C1815"; VariantName = "[No Variations]"
+Added Component: Designator=R1(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(R1/4W)
+Add component (AddParameter): Name = "Value"; Value = "R1/4W - 1K"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=SW4(SW2)
+Add component (AddParameter): Name = "Value"; Value = "SW chip 2 pin"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ARDUINO_STM32F103C8T6)
+Added Pin To Net: NetName=BUTTON1 Pin=R2-2
+Added Pin To Net: NetName=BUTTON1 Pin=SW1-1
+Added Pin To Net: NetName=BUTTON1 Pin=U1-21
+Added Net: Name=BUTTON1
+Added Pin To Net: NetName=BUTTON2 Pin=R3-2
+Added Pin To Net: NetName=BUTTON2 Pin=SW2-1
+Added Pin To Net: NetName=BUTTON2 Pin=U1-22
+Added Net: Name=BUTTON2
+Added Pin To Net: NetName=BUTTON3 Pin=R4-2
+Added Pin To Net: NetName=BUTTON3 Pin=SW3-1
+Added Pin To Net: NetName=BUTTON3 Pin=U1-23
+Added Net: Name=BUTTON3
+Added Pin To Net: NetName=BUTTON4 Pin=R5-2
+Added Pin To Net: NetName=BUTTON4 Pin=SW4-1
+Added Pin To Net: NetName=BUTTON4 Pin=U1-24
+Added Net: Name=BUTTON4
+Added Pin To Net: NetName=buzzel Pin=R6-2
+Added Pin To Net: NetName=buzzel Pin=U1-25
+Added Net: Name=buzzel
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=SW1-2
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=SW4-2
+Added Pin To Net: NetName=GND Pin=U1-39
+Added Net: Name=GND
+Added Pin To Net: NetName=JOY_X Pin=J1-3
+Added Pin To Net: NetName=JOY_X Pin=U1-8
+Added Net: Name=JOY_X
+Added Pin To Net: NetName=JOY_Y Pin=J1-4
+Added Pin To Net: NetName=JOY_Y Pin=U1-7
+Added Net: Name=JOY_Y
+Added Pin To Net: NetName=LCD_CS Pin=JP2-11
+Added Pin To Net: NetName=LCD_CS Pin=U1-14
+Added Net: Name=LCD_CS
+Added Pin To Net: NetName=LCD_RS Pin=JP2-9
+Added Pin To Net: NetName=LCD_RS Pin=U1-12
+Added Net: Name=LCD_RS
+Added Pin To Net: NetName=LCD_RST Pin=JP2-10
+Added Pin To Net: NetName=LCD_RST Pin=U1-10
+Added Net: Name=LCD_RST
+Added Pin To Net: NetName=LCD_SCK Pin=JP2-7
+Added Pin To Net: NetName=LCD_SCK Pin=U1-11
+Added Net: Name=LCD_SCK
+Added Pin To Net: NetName=LCD_SDA Pin=JP2-8
+Added Pin To Net: NetName=LCD_SDA Pin=U1-13
+Added Net: Name=LCD_SDA
+Added Pin To Net: NetName=NetB1_2 Pin=B1-2
+Added Pin To Net: NetName=NetB1_2 Pin=Q1-2
+Added Net: Name=NetB1_2
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=IC1-3
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=C3-2
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R1-1
+Added Net: Name=NetLED1_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R6-1
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=VCC Pin=B1-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C5-2
+Added Pin To Net: NetName=VCC Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=JP2-1
+Added Pin To Net: NetName=VCC Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R5-1
+Added Pin To Net: NetName=VCC Pin=U1-40
+Added Net: Name=VCC
+Added Class: Name=schematic
+Added Room: Name=schematic

@@ -1,0 +1,10 @@
+Added Component: Designator=U1(TO263-5)
+Added Pin To Net: NetName=BT4 Pin=MCU1-5
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Pin To Net: NetName=NetDDL1_2 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetU1_4 Pin=U1-4
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM2596
